@@ -16,7 +16,7 @@ These are early, in-progress versions of my research papers. I'm sharing them op
 
 
 
-Each paper is organized in its own folder: `YYYY_LastName_ShortTitle/`
+Each paper is organized in its own folder: `YYYYMMDD_LastName_FI_ShortTitle/`
 
 ## How to Cite
 
