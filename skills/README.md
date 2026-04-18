@@ -30,3 +30,10 @@ Use $self-drive-research-loop to set up a research loop for this problem.
 ```
 
 The skill is intentionally lightweight. It provides the workflow and ledger discipline; it does not certify mathematical proofs.
+
+The workflow review and install note live with the skill:
+
+```text
+skills/self-drive-research-loop/docs/self_drive_skill_review.md
+skills/self-drive-research-loop/docs/self_drive_skill_review.pdf
+```

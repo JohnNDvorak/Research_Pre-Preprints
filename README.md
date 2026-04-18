@@ -30,7 +30,7 @@ To install it locally:
 ./install_self_drive_skill.sh
 ```
 
-The workflow review and install note is in `docs/self_drive_skill_review.md`.
+The workflow review and install note is in `skills/self-drive-research-loop/docs/self_drive_skill_review.md`.
 
 ## How to Cite
 
