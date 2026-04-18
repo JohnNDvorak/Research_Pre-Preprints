@@ -18,6 +18,20 @@ These are early, in-progress versions of my research papers. I'm sharing them op
 
 Each paper is organized in its own folder: `YYYYMMDD_LastName_FI_ShortTitle/`
 
+## Codex Skills
+
+This repository also includes a shareable Codex skill used in the research workflow:
+
+- `skills/self-drive-research-loop/`: an auditable iterative research-loop skill with round ledgers, failed-route guardrails, and handoff prompts.
+
+To install it locally:
+
+```bash
+./install_self_drive_skill.sh
+```
+
+The workflow review and install note is in `docs/self_drive_skill_review.md`.
+
 ## How to Cite
 
 **Before arXiv:** Please treat these as *personal communication* or cite as:

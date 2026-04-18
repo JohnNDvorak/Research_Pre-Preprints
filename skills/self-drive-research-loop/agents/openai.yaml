@@ -1,0 +1,7 @@
+interface:
+  display_name: "Self-Drive Research Loop"
+  short_description: "Auditable iterative research loop"
+  default_prompt: "Use $self-drive-research-loop to structure this open math problem into auditable rounds with ledgers and failed-route guardrails."
+
+policy:
+  allow_implicit_invocation: true
